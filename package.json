@@ -1,0 +1,26 @@
+{
+  "name": "xenacious-copper-shark",
+  "version": "1.0.0",
+  "description": "This is package xenacious-copper-shark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-rupiah": "^1.0.3",
+    "generate-product": "^1.0.0",
+    "numeric-toolkit": "^1.0.0",
+    "calculus-toolkit": "^1.0.0",
+    "advance-calculus-toolkit": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luthfiamrullah/xenacious-copper-shark.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
